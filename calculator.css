@@ -14,7 +14,7 @@
 
 /* Display */
 .display { 
-background-color: #bfc4ce;
+background-image: url('bb8.gif');
 		width: 220px;
 		position: relative;
 		left: 15px;
@@ -27,7 +27,7 @@ background-color: #bfc4ce;
 	top: 2px;
 	height: 30px;
 	width: 210px;
-	color: black;
+	background-image: url('bb8.gif');
 	background-color: #E5E4E8; 
 	front-size: 21px;
 	text-align: right; 
